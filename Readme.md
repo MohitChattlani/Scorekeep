@@ -2,6 +2,10 @@
 
 An app that lets you keep a track of scores and manage players/teams built using meteor and reactjs.
 
+## Screenshot
+
+![scorekeep](https://user-images.githubusercontent.com/19841485/28751806-7ccfb8c8-752e-11e7-8430-94ae485a0c32.png)
+
 ### How to run locally?
 
 * Install meteor
